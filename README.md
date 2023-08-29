@@ -6,7 +6,7 @@ User registration form with Name, Email, Password, and Password Confirmation fie
 Input validation for required fields, minimum and maximum character lengths, valid email format, and password confirmation.
 OOP design with separate classes for input handling and validation.
 
-# Fiel Details
+# File Details
 ```
 OOP With CRUD APP
 ├── classes
