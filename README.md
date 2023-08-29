@@ -42,5 +42,5 @@ I developed this application during my internship at Train Payment Inc. (PAYGURU
 # License
 This project is licensed under the MIT License. See the LICENSE.md file for details.
 
-# İmages
+# Images
 ![Ekran görüntüsü 2023-08-29 160317](https://github.com/omerkilic-0/OOP-With-CRUD-APP_Starter-Level/assets/123635257/8c345a30-ebba-4966-9dba-5392c3f8981c)
