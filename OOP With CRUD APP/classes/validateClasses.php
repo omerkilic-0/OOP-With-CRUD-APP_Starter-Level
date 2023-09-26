@@ -1,4 +1,5 @@
 <?php
+
 class Validate
 {
     private $errors = array();
@@ -45,6 +46,7 @@ class Validate
     {
         $this->errors[] = $message;
     }
+
     public function showError()
     {
         foreach ($this->errors as $error) {
@@ -53,6 +55,7 @@ class Validate
             echo "</pre>";
         }
     }
+
     public function passed()
     {
         return (empty($this->errors)) ? true : false;
